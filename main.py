@@ -17,7 +17,7 @@ from aiogram.types import (
 # ──────────────────────────────────────────
 # ⚙️ KONFIGURATSIYA (UZUM MARKET PRO)
 # ──────────────────────────────────────────
-BOT_TOKEN = "8747604242:AAGjFvrUC5SxQeuB6RXh1O6e3CBoJ62QCKE"
+BOT_TOKEN = "8747604242:AAHxDeY0V4FDPxAsHJl4ZG6uXu0UrpE2mNw"
 ADMINS = [8488028783]  # Asosiy adminlar
 
 DB_URL = "postgresql://neondb_owner:npg_93widXgyhepO@ep-dawn-resonance-aq5a93o7-pooler.c-8.us-east-1.aws.neon.tech/neondb?sslmode=require"
